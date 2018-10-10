@@ -1,14 +1,78 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "signature": "affe023a6a89fd32d7cdbba50040da0a65f38ee7"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
       "testFichierPdf/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNet.Mvc": "5.2.6",
+          "iTextSharp": "5.5.12"
+        },
         "runtime": {
           "testFichierPdf.dll": {}
+        }
+      },
+      "iTextSharp/5.5.12": {
+        "runtime": {
+          "lib/itextsharp.dll": {
+            "assemblyVersion": "5.5.12.0",
+            "fileVersion": "5.5.12.0"
+          }
+        }
+      },
+      "Microsoft.AspNet.Mvc/5.2.6": {
+        "dependencies": {
+          "Microsoft.AspNet.Razor": "3.2.6",
+          "Microsoft.AspNet.WebPages": "3.2.6"
+        },
+        "runtime": {
+          "lib/net45/System.Web.Mvc.dll": {
+            "assemblyVersion": "5.2.6.0",
+            "fileVersion": "5.2.60510.0"
+          }
+        }
+      },
+      "Microsoft.AspNet.Razor/3.2.6": {
+        "runtime": {
+          "lib/net45/System.Web.Razor.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.60510.0"
+          }
+        }
+      },
+      "Microsoft.AspNet.WebPages/3.2.6": {
+        "dependencies": {
+          "Microsoft.AspNet.Razor": "3.2.6",
+          "Microsoft.Web.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "lib/net45/System.Web.Helpers.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.60510.0"
+          },
+          "lib/net45/System.Web.WebPages.Deployment.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.60510.0"
+          },
+          "lib/net45/System.Web.WebPages.Razor.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.60510.0"
+          },
+          "lib/net45/System.Web.WebPages.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.60510.0"
+          }
+        }
+      },
+      "Microsoft.Web.Infrastructure/1.0.0": {
+        "runtime": {
+          "lib/net40/Microsoft.Web.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.20105.407"
+          }
         }
       }
     }
@@ -18,6 +82,41 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "iTextSharp/5.5.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-11kZ6NWkChRUbMXIkBIXvlPVaf6gvE8xzrvg04AcRGWOeS4eg6LUAg7L03i1cwYlOE7sgv32uQ61qy3i3UPzkQ==",
+      "path": "itextsharp/5.5.12",
+      "hashPath": "itextsharp.5.5.12.nupkg.sha512"
+    },
+    "Microsoft.AspNet.Mvc/5.2.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OnH+WDHIv4d5lpYTsYr2HNph149N+Bw+DxjUEqpfODcx2Wlktnn52YFr7st7ur5XaJnMXj5BtMJ8k2oEs5JreA==",
+      "path": "microsoft.aspnet.mvc/5.2.6",
+      "hashPath": "microsoft.aspnet.mvc.5.2.6.nupkg.sha512"
+    },
+    "Microsoft.AspNet.Razor/3.2.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ov8Ujr3EgiZym1Ftky+jPshC8datSXY/6r9drlM3ThR7QIMN85gZCBZ5TsQXghcKpBiaIxRZdzXTU5/ztLuZHg==",
+      "path": "microsoft.aspnet.razor/3.2.6",
+      "hashPath": "microsoft.aspnet.razor.3.2.6.nupkg.sha512"
+    },
+    "Microsoft.AspNet.WebPages/3.2.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-y6YTVXUIG6dgXOQrOICR0Z9B+Mu49wzT0SFBLL+j182FLqrAgLAyMrlRNycSmddus9GLvW2ZvtXwUp8PIU3fzQ==",
+      "path": "microsoft.aspnet.webpages/3.2.6",
+      "hashPath": "microsoft.aspnet.webpages.3.2.6.nupkg.sha512"
+    },
+    "Microsoft.Web.Infrastructure/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FNmvLn5m2LTU/Rs2KWVo0SIIh9Ek+U0ojex7xeDaSHw/zgEP77A8vY5cVWgUtBGS8MJfDGNn8rpXJWEIQaPwTg==",
+      "path": "microsoft.web.infrastructure/1.0.0",
+      "hashPath": "microsoft.web.infrastructure.1.0.0.nupkg.sha512"
     }
   }
 }
