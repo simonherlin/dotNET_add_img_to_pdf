@@ -1,0 +1,8 @@
+C:\Users\sherlin\Documents\access-it\test\testFichierPdf\testFichierPdf\bin\Debug\netcoreapp2.2\testFichierPdf.deps.json
+C:\Users\sherlin\Documents\access-it\test\testFichierPdf\testFichierPdf\bin\Debug\netcoreapp2.2\testFichierPdf.runtimeconfig.json
+C:\Users\sherlin\Documents\access-it\test\testFichierPdf\testFichierPdf\bin\Debug\netcoreapp2.2\testFichierPdf.runtimeconfig.dev.json
+C:\Users\sherlin\Documents\access-it\test\testFichierPdf\testFichierPdf\bin\Debug\netcoreapp2.2\testFichierPdf.dll
+C:\Users\sherlin\Documents\access-it\test\testFichierPdf\testFichierPdf\obj\Debug\netcoreapp2.2\testFichierPdf.csprojResolveAssemblyReference.cache
+C:\Users\sherlin\Documents\access-it\test\testFichierPdf\testFichierPdf\obj\Debug\netcoreapp2.2\testFichierPdf.csproj.CoreCompileInputs.cache
+C:\Users\sherlin\Documents\access-it\test\testFichierPdf\testFichierPdf\obj\Debug\netcoreapp2.2\testFichierPdf.AssemblyInfoInputs.cache
+C:\Users\sherlin\Documents\access-it\test\testFichierPdf\testFichierPdf\obj\Debug\netcoreapp2.2\testFichierPdf.AssemblyInfo.cs
