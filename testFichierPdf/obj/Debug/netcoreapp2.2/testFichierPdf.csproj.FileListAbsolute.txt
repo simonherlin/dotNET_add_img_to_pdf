@@ -6,3 +6,6 @@ C:\Users\sherlin\Documents\access-it\test\testFichierPdf\testFichierPdf\obj\Debu
 C:\Users\sherlin\Documents\access-it\test\testFichierPdf\testFichierPdf\obj\Debug\netcoreapp2.2\testFichierPdf.csproj.CoreCompileInputs.cache
 C:\Users\sherlin\Documents\access-it\test\testFichierPdf\testFichierPdf\obj\Debug\netcoreapp2.2\testFichierPdf.AssemblyInfoInputs.cache
 C:\Users\sherlin\Documents\access-it\test\testFichierPdf\testFichierPdf\obj\Debug\netcoreapp2.2\testFichierPdf.AssemblyInfo.cs
+C:\Users\sherlin\Documents\access-it\test\testFichierPdf\testFichierPdf\bin\Debug\netcoreapp2.2\testFichierPdf.pdb
+C:\Users\sherlin\Documents\access-it\test\testFichierPdf\testFichierPdf\obj\Debug\netcoreapp2.2\testFichierPdf.dll
+C:\Users\sherlin\Documents\access-it\test\testFichierPdf\testFichierPdf\obj\Debug\netcoreapp2.2\testFichierPdf.pdb

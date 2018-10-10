@@ -52,6 +52,7 @@ namespace testFichierPdf
 
         static void Main(string[] args)
         {
+            AddImageOnEachPage("pycon.pdf", "new_pycon.pdf", "duplicata.png");
         }
     }
 }
